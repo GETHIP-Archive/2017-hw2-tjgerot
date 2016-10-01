@@ -1,0 +1,7 @@
+{
+    "firstName":"Thomas",
+    "lastName":"Gerot",
+    "age": 17,
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14492421_884221878376595_1667036012047862655_n.jpg?oh=d6f2e94624ac7f1a2b273eaf37ee8473&oe=58737AEC",
+    "strengths": [{"strength":"Command"}, {"strength":"Strategic"}, {"strength":"Competition"}, {"strength":"Analytical"}, {"strength":"Futuristic"}]
+}
